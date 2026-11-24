@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+work/
+*.db
+*.db-wal
+*.db-shm
+deleted.csv
+orphans.csv
+usage.json
+*.zip
